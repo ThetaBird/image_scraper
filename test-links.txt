@@ -1,0 +1,25 @@
+Please paste your list of test URLs below:
+eulerity.com (returns 0 images because it's a javascript generated webpage; JSoup won't cut it for this one)
+tensorflow.org
+ai-4-all.org
+bths.edu
+lehigh.edu
+mit.edu
+columbia.edu
+princeton.edu
+harvard.edu
+swarthmore.edu
+themoviedb.org
+imdb.com
+discord.com
+facebook.com
+snapchat.com
+store.steampowered.com
+eveonline.com
+wiki.tacticool.game/en/
+callofduty.com
+www.riotgames.com
+flutter.dev
+nodejs.org
+reactjs.org
+getbootstrap.com
